@@ -45,7 +45,7 @@ demoCtx =
   [ InRep
   , InAltR (Lit 'b')
   , InSeqL (Lit 'd')
-  , InSeqR (Lit 'c')
+  , InSeqR (Lit 'a')
   ]
 
 plugContext e demoContext
